@@ -1,3 +1,4 @@
+   - dialog box to set atom map
    - read and write chiral flag for both V2000 and V3000
    - set MDL chiral flag with a popup menu
    - in multipart, activate closest fragment by a mouse click
