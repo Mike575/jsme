@@ -1,0 +1,11 @@
+{
+  "name": "jsme",
+  "version": "0.0.0",
+  "description": "JSME Molecule Editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheminfo/jsme.git"
+  },
+  "license": "BSD-3-Clause",
+  "private": true
+}

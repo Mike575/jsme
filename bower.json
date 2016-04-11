@@ -1,0 +1,14 @@
+{
+  "name": "jsme",
+  "version": "0.0.0",
+  "description": "JSME Molecule Editor",
+  "main": [
+    "jsme/jsme.nocache.js"
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "/*",
+    "!jsme/*",
+    "!license.txt"
+  ]
+}
