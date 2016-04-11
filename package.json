@@ -2,6 +2,9 @@
   "name": "jsme",
   "version": "0.0.0",
   "description": "JSME Molecule Editor",
+  "scripts": {
+    "build": "echo 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cheminfo/jsme.git"
