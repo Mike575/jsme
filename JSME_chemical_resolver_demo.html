@@ -99,7 +99,7 @@
         if(smiles) {
         
         $.ajax({
-              url: "http://cactus.nci.nih.gov/chemical/structure",
+              url: "https://cactus.nci.nih.gov/chemical/structure",
               crossDomain: true,
               data: {
 		"string" : smiles,
@@ -123,7 +123,7 @@
   function convertToMolfile(molecularRepresentation) {
     if(molecularRepresentation && molecularRepresentation.indexOf("M  END") == -1 && molecularRepresentation.slice(0, 4) !="$RXN") {
         $.ajax({
-              url: "http://cactus.nci.nih.gov/chemical/structure",
+              url: "https://cactus.nci.nih.gov/chemical/structure",
               crossDomain: true,
               data: {
                   "string" : molecularRepresentation,
@@ -165,7 +165,7 @@
     
     <h1>JSME + Chemical Identifier Resolver demo</h1>
 <h3>Compound to name</h3>
-The name of the molecule in the editor is fetched from the NCI web service (http://cactus.nci.nih.gov/chemical/structure) after the structure in the editor has changed.<br>
+The name of the molecule in the editor is fetched from the NCI web service (https://cactus.nci.nih.gov/chemical/structure) after the structure in the editor has changed.<br>
 
 
 

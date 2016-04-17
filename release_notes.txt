@@ -1,10 +1,21 @@
-   - dialog box to set atom map
+
+JSME-2016-04-17
+   - dialog box to set atom map available with the context menu
+   - autonumbering of atom maps of a molecule using the context menu
    - read and write chiral flag for both V2000 and V3000
-   - set MDL chiral flag with a popup menu
+   - set MDL chiral flag with the context menu
    - in multipart, activate closest fragment by a mouse click
-   - SMIRKS input
-   - mouse wheel event for zooming out and in
-   - openchem lib for SMILES input
+   - in multipart, move the fragment that is the closest to the mouse pointer coordinates 
+   - in multipart paste, keep the original coordinates of the fragments
+   - mouse wheel for zooming in and out (does not work correctly for reactions)
+   - allow zooming option (zoom, nozoom)
+   - openchemlib for SMILES input
+   - SMIRKS input using openchemlib for SMILES input
+   - use openchemlib option
+   - highlight in red molecule to be deleted
+   - highlight in blue molecule to be copied (in reaction mode)
+   - various bug fixes
+   - refactoring of bond code
 
 JSME-2016-02-16
     - Bug fix for multipart copy
