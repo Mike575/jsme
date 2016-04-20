@@ -1,3 +1,7 @@
+JSME-2016-04-19
+	- atom mapping option in the context popup menu is shown only in reaction mode
+	- bug fix
+	- Setting the chiral flag shows a message in the info area
 
 JSME-2016-04-17
    - dialog box to set atom map available with the context menu
