@@ -1,3 +1,9 @@
+
+JSME-2016-04-27
+	- disable SVG text selection with global CSS
+	- Bug fix: bond addition with keyboard on selected atom
+	- atom mapping option in the context popup menu is shown only in reaction or number or autonumber mode
+
 JSME-2016-04-19
 	- atom mapping option in the context popup menu is shown only in reaction mode
 	- bug fix
