@@ -1,3 +1,8 @@
+JSME-2016-05-16
+	- bug fix: depict was not scaled anymore
+	- MDL chiral flag reading was generating an exception if no digit character were present
+	- New JSME initialization: <param name="smiles" value="c1ncncn1">
+
 
 JSME-2016-04-27
 	- disable SVG text selection with global CSS
