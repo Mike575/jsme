@@ -1,4 +1,4 @@
-JSME-2016-05-16
+JSME-2016-05-21
 	- bug fix: depict was not scaled anymore
 	- MDL chiral flag reading was generating an exception if no digit character were present
 	- New JSME initialization: <param name="smiles" value="c1ncncn1">
