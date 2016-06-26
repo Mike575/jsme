@@ -294,6 +294,8 @@ The API of JSME includes the API of the java applet JME plus new functions and m
 <b>stereo,nostereo</b> - stereochemistry not considered when creating SMILES (default is stereo)<br>
 <b>reaction, noreaction</b> - enable / disable reaction input<br>
 <b>multipart, nomultipart</b> - possibility to enter multipart structures (default nomultipart)<br>
+<b>addnewpart, noaddnewpart</b> when reading or pasting a new molecule, add it to the existing molecules or replace them (used only if option multipart is set)
+
 <b>polarnitro, nopolarnitro</b> - prevent automatic conversion of nitro (and similar) groups into nonpolar form (default is nopolarnitro)<br>
 <b>number / autonumber</b> - possibility to number (mark) atoms<br>
 <b>star, nostar</b> - possibility to highlight an atom (default is nostar). All highlighted atoms will have an atom number equal to 1. The atom numbers are included in the exported SMILES and MOL.<br>
@@ -305,7 +307,7 @@ The API of JSME includes the API of the java applet JME plus new functions and m
 
 <b>useopenchemlib, nouseopenchemlib</b> - use the OpenChemLib library (https://github.com/Actelion/openchemlib) for SMILES conversion and 2D coordinates computation <br>
 <b>zoom, nozoom</b> - turn on/off zooming of the molecular drawing area<br>
-
+<b>showdraganddropsymbolindepictmode, noshowdraganddropsymbolindepictmode</b> show or hide the drag and drop symbol (blue triangle) in depict mode
 
 
 <b>atombg</b> - atom background color - see the demo JSME_atom_highlight_demo.html for an example<br>

@@ -1,4 +1,11 @@
-JSME-2016-05-21
+JSME-2016-06-19
+	- new options: showdraganddropsymbolindepictmode and noshowdraganddropsymbolindepictmode
+	- new options: addnewpart and noaddnewpart
+	- bug fix add new part was not supported for JME string input
+	- split and merge new behavior
+	- mutipart option is on by default
+
+JSME-2016-05-16
 	- bug fix: depict was not scaled anymore
 	- MDL chiral flag reading was generating an exception if no digit character were present
 	- New JSME initialization: <param name="smiles" value="c1ncncn1">
