@@ -1,3 +1,7 @@
+JSME-2016-08-01
+	- bug fix add new part was not working correctly if the pasted structure is multipart
+    - autoez bug fix , autoez is on by default
+    
 JSME-2016-06-19
 	- new options: showdraganddropsymbolindepictmode and noshowdraganddropsymbolindepictmode
 	- new options: addnewpart and noaddnewpart
