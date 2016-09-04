@@ -1,3 +1,12 @@
+JSME=2016-09-04
+	- small bug fixes
+
+JSME=2016-08-21
+	- R number can be changed by selecting the R atom and typing a number on the keyboard
+	- the */- button allows changing charge of metals with only two major oxidation states
+	- X atom charge parsing bug fix for Ca2+
+	- New keyboard shortcut for changing atomic charge '+' (works only for the Java applet)
+	
 JSME-2016-08-01
 	- bug fix add new part was not working correctly if the pasted structure is multipart
     - autoez bug fix , autoez is on by default
