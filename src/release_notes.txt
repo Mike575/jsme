@@ -1,3 +1,7 @@
+JSME=2016-09-05
+	- small bug fixesm reading mutipart mol
+	- readMolfile sends JS event after repaint() of the applet
+
 JSME=2016-09-04
 	- small bug fixes
 
