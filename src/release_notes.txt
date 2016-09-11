@@ -1,3 +1,7 @@
+JSME=2016-09-11
+	- bug fix: cumulene and autoez option
+	- getMolecularAreaGraphicsString function refreshes the drawing before yielding the SVG. Also, it does not show the touched atom or bond.
+
 JSME=2016-09-05
 	- small bug fixesm reading mutipart mol
 	- readMolfile sends JS event after repaint() of the applet

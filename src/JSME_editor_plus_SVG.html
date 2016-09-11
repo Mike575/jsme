@@ -16,16 +16,11 @@
         jsmeApplet.setNotifyStructuralChangeJSfunction("showSVG");
    }
    function showSVG() {
-          JSApplet.Utils.runAfterFixedDelay( function() {
-		      elm =document.getElementById("svg_container");
-		      elm.innerHTML = jsmeApplet.getMolecularAreaGraphicsString();
+ 		elm =document.getElementById("svg_container");
+		elm.innerHTML = jsmeApplet.getMolecularAreaGraphicsString();
 		     
-		      elm =document.getElementById("svg_textarea");
-		      elm.innerHTML = jsmeApplet.getMolecularAreaGraphicsString();
-		      }, 30);
-      
-      
-      
+		elm =document.getElementById("svg_textarea");
+		elm.innerHTML = jsmeApplet.getMolecularAreaGraphicsString();
    }
 </script>
 </head>
