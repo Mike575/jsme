@@ -31,5 +31,3 @@ JSME uses code from the following libraries:
     - gwt-exporter   -  Apache License v2.0  http://www.apache.org/licenses/
     - gwt            -  Apache License v2.0  http://www.apache.org/licenses/
     - OpenChemLib    -  https://github.com/Actelion/openchemlib/blob/master/LICENSE
-    - inchi-js       -  https://github.com/metamolecular/inchi-js/LICENSE.txt
-
