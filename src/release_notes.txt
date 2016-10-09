@@ -1,24 +1,32 @@
-JSME=2016-09-25
-	- diplay sp carbon in cumulene bond
 
-JSME=2016-09-18
+JSME-2016-10-06
+	- delete hydrogens menu
+	- bug fix: infinite loop when setAfterStructureModifiedCallback uses getMolecularAreaGraphicsString()
+
+JSME-2016-10-02
+	- clipboard window improved for long lines text
+
+JSME-2016-09-25
+	- display sp carbon in cumulene bond
+
+JSME-2016-09-18
 	- bug fix: H+, H-
 	- undo shows empty state
 	- depict bug fix
 	- internal change for event reporting
 	
-JSME=2016-09-11
+JSME-2016-09-11
 	- bug fix: cumulene and autoez option
 	- getMolecularAreaGraphicsString function refreshes the drawing before yielding the SVG. Also, it does not show the touched atom or bond.
 
-JSME=2016-09-05
+JSME-2016-09-05
 	- small bug fixesm reading mutipart mol
 	- readMolfile sends JS event after repaint() of the applet
 
-JSME=2016-09-04
+JSME-2016-09-04
 	- small bug fixes
 
-JSME=2016-08-21
+JSME-2016-08-21
 	- R number can be changed by selecting the R atom and typing a number on the keyboard
 	- the */- button allows changing charge of metals with only two major oxidation states
 	- X atom charge parsing bug fix for Ca2+
