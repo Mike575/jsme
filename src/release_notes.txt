@@ -1,3 +1,7 @@
+JSME-2016-10-19
+	- bug fix: getMolecularAreaGraphicsString
+	- bug fix: slow down of FireFox SVG display
+
 JSME-2016-10-17
 	- bug fix: Cursor does not become a text edit cursor over SVG text
 	- the right border uses a separate graphics, which fixes several bugs
