@@ -1,7 +1,14 @@
-	
-	- set default cursor style for SVG text
+JSME-2016-10-17
+	- bug fix: Cursor does not become a text edit cursor over SVG text
+	- the right border uses a separate graphics, which fixes several bugs
+	- bug fix: readMolfile sends JS event after repaint() of the applet
+
+JSME-2016-10-09
+	- useOclIDCode new option: preliminary implementation
+
 JSME-2016-10-06
-	- delete hydrogens menu
+	- delete hydrogens popup  menu entry
+	- bug fix: removehs fixed
 	- bug fix: infinite loop when setAfterStructureModifiedCallback uses getMolecularAreaGraphicsString()
 
 JSME-2016-10-02
