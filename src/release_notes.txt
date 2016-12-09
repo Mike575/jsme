@@ -1,6 +1,17 @@
+JSME-2016-12-06
+	- new API methods: getMolecularAreaScale(), setMolecularAreaScale(), getMenuScale(), setMenuScale()
+	- depict mode: structure can be moved around
+	- Multiple button after setting R option : bug fixed
+	
+JSME-2016-11-13
+	- improved documentation (options useoclidcode, toggle, InchiResult)
+	- Search InChIKey can be customized by using a custom base URL or a custom callback function
+	- Search InChIKey menu entry renamed
+	- Inchi export disabled for IE < 9
+	
 JSME-2016-11-05
 	- option parser code rewrite
-	- bug fix Export SVG for IE678
+	- bug fix Export SVG for IE < 9
 
 JSME-2016-11-01
 	- Export SVG for molecules using the OpenChemLib SVG depictor

@@ -63,6 +63,7 @@
     	//document.getElementById("button").disabled=false;
         
 
+		document.getElementById("inchiKeyUrlTextArea").value = jsmeApplet.getWebSearchInchiKeyBaseUrl();
      	
     }
     
@@ -172,6 +173,20 @@
 			</td>
 	     </tr>
 
+		<tr>
+	        <td>Drawing area scale: <input type="text" name="mareascale" id="mareascale" value="1.5" maxlength="10" />
+	        </td>
+	        <td>
+			   <button type="button" onclick='jsmeApplet.setMolecularAreaScale(parseFloat(document.getElementById("mareascale").value));'>set scale</button>
+			</td>
+	     </tr>
+		<tr>
+	        <td>Non drawing area scale: <input type="text" name="nmareascale" id="nmareascale" value="1.5" maxlength="10" />
+	        </td>
+	        <td>
+			   <button type="button" onclick='jsmeApplet.setMenuScale(parseFloat(document.getElementById("nmareascale").value));'>set scale</button>
+			</td>
+	     </tr>
 	     
      </table>
 
@@ -217,12 +232,17 @@
       <tr>
         <td>
         Customize the help URL: <textarea id="urlTextArea", rows="1" cols="50">http://peter-ertl.com/jsme/2013_03/help.html</textarea>
-        
         </td>
+        
         <td >
         <button type="button" id="urlButton" onclick='var url = document.getElementById("urlTextArea").value; jsmeApplet.setHelpURL(url);'>Set help URL</button>
         </td>
       </tr>
+
+ 
+
+
+
       <tr>
         <td>
         Display a message in the bottom bar: <textarea id="msgTextArea", rows="1" cols="50">MW: XXXX.XXX</textarea>
@@ -233,6 +253,32 @@
       </tr>
 
 
+     <tr>
+        <td>
+        Customize the InChIKey search base URL: <textarea id="inchiKeyUrlTextArea", rows="1" cols="50"></textarea>
+        </td>
+        <td>
+        <button type="button"  onclick='var url = document.getElementById("inchiKeyUrlTextArea").value; jsmeApplet.setWebSearchInchiKeyBaseUrl(url);'>Set InChIKey search base URL</button>
+        <td >
+        </td>
+      </tr>
+
+     <tr>
+        <td>
+        Customize the InChIKey search using a custom function. In this example, the search function is replaced by opening a simple alert.
+        </td>
+        <td >
+         <button type="button"  onclick='jsmeApplet.setCallBack("InchiKeySearch", function(jsmeEvent) {alert(jsmeEvent.argument.key + "\n" + jsmeEvent.argument.inchi + "\n");});'>Set InChIKey search callback function</button>
+        </td>
+      </tr>
+     <tr>
+        <td>
+        Reset InChIKey search to its default function.
+        </td>
+        <td >
+         <button type="button"  onclick='jsmeApplet.setCallBack("InchiKeySearch", null);'>Set InChi key search callback function to null</button>
+        </td>
+      </tr>
 
     </table>
     
@@ -288,6 +334,7 @@
       </tr>
       
     </table>    
+
     <table align="center">
      <tr>
         <td colspan="3" style="font-weight:bold;">Import chemical structure from text area above to applet:</td>
