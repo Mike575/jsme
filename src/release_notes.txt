@@ -1,7 +1,30 @@
+JSME-2017-02-08
+	- bug fix: SDF buffer navigation messages were not shown
+	- HOME and END keys can be used to navigate the SDF buffer in addition to page up and page down keys
+
+
+JSME-2017-02-06
+	- bug fix: structure change event recorded after setting the chiral flag
+	- bug fix: NEW button shown as disabled after structure change
+	- new feature: when NEW button is on, the pasted or dropped structure is added to the molecular drawing area
+
+JSME-2017-01-22
+	- bug fix:  in depict mode, DnD arrow size does not vary with zoom level
+	- DnD arrow in depict mode is smaller
+	- new event types for reading  SMILES, SMIRKS, RXN, JME string
+	- new event field: origin (GUI, INIT, DROP, or API)
+	- new API method:readGenericMolecularInput()
+	- import MOL in V3000 format accepted (extended stereo collections are ignored)
+	- exported SVG contains an embedded MOL in V3000 format, this SVG can be pasted/imported back in JSME
+	- bug fix: depict mode automatic scaling and resizing
+	- bug fix: zooming in and out for reactions
+	- new internal class: ChemicalFormatDetector
+	- JME internal code cleanup
+
 JSME-2016-12-06
 	- new API methods: getMolecularAreaScale(), setMolecularAreaScale(), getMenuScale(), setMenuScale()
 	- depict mode: structure can be moved around
-	- Multiple button after setting R option : bug fixed
+	- multiple button after setting R option : GUI bug fixed
 	
 JSME-2016-11-13
 	- improved documentation (options useoclidcode, toggle, InchiResult)

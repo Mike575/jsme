@@ -25,7 +25,7 @@
     	//Instantiate a new JSME:
     	//arguments: HTML id, width, height (must be string not number!)
     	
-     	jsmeApplet = new JSApplet.JSME("appletContainer", "640px", "340px", {
+     	jsmeApplet = new JSApplet.JSME("appletContainer", "600px", "440px", {
      		//optional parameters
      		"options" : "query,hydrogens",
      		"jme" : startingStructure 
@@ -105,6 +105,11 @@
      function readMOLFromTextArea() {
     	  var mol = document.getElementById("jme_output").value;
     	  jsmeApplet.readMolFile(mol); 
+    	}
+
+      function readAnyFromTextArea() {
+    	  var mol = document.getElementById("jme_output").value;
+    	  jsmeApplet.readGenericMolecularInput(mol); 
     	}
     
     </script>
@@ -345,6 +350,9 @@
       </td>
       <td>
          <button type="button" onclick='readMoleculeFromTextArea();'>Read JME String</button>
+      </td>
+      <td>
+         <button type="button" onclick='readAnyFromTextArea();'>Read any supported format</button>
       </td>
 
     </table>
