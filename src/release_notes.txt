@@ -1,7 +1,11 @@
+JSME-2017-02-20
+	- bug fix: chiral flag was not saved in the undo state
+	- bug fix: ChemicalFormatDetector trims MOL first line if it is empty
+	- improved template example page
+
 JSME-2017-02-08
 	- bug fix: SDF buffer navigation messages were not shown
 	- HOME and END keys can be used to navigate the SDF buffer in addition to page up and page down keys
-
 
 JSME-2017-02-06
 	- bug fix: structure change event recorded after setting the chiral flag
