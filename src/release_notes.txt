@@ -1,3 +1,7 @@
+JSME-2017-03-21
+	- New system clipboard handling
+	- support for wiggle and crossed stereo bonds
+
 JSME-2017-02-26
 	- improved URL for searching InChI Key (google verbatim search)
 	- bug fix: popup menu positions when the GUI is scaled
