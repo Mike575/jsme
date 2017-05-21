@@ -1,3 +1,14 @@
+JSME-2017-05-21
+	- context menu can be disabled (new option)
+	- SMILES export: No more EZ stereo for double bonds in ring size <= 7
+	- Hydrogen count is exported for some metals for MOL (v2000+v3000) and JME formats, and imported for MOL (V2000) and JME formats
+
+JSME-2017-05-07
+	- Coordination bond shown in SMILES as ~ (canonization is disabled)
+
+JSME-2017-04-01
+	- First support for coordination bonds
+
 JSME-2017-03-21
 	- New system clipboard handling
 	- support for wiggle and crossed stereo bonds
