@@ -1,4 +1,19 @@
-JSME-2017-05-21
+JSME 2017-06-18
+	- improved visual feedback for group deletion
+	- improved visual feedback for atom moving (bond highlight not shown anymore)
+	- copy/paste windows can be closed by pressing the ESC key
+	- RXN export agents (non standard format)
+	- RXN export format new option: merge reaction component
+	- when a reaction role is changed, an event is generated
+	- setting atom maps for reactions is easier with mouse clicks
+	- bug fix: applet resize will keep the reaction components around the reaction arrow
+	- bug fix: paste a reaction when the molecular area scale is different than 1
+	- bug fix: if the molecular area scale is different than 1, the reaction role of the reaction components were not correctly reported
+	- bug fix: error message for a non supported input file format showed the enum number instead of the enum name
+	- preliminary implementation of full screen icon (still disabled by default)
+	- java code refactoring
+	
+JSME-2017-05-22
 	- context menu can be disabled (new option)
 	- SMILES export: No more EZ stereo for double bonds in ring size <= 7
 	- Hydrogen count is exported for some metals for MOL (v2000+v3000) and JME formats, and imported for MOL (V2000) and JME formats
