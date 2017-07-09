@@ -1,2689 +1,2689 @@
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-0762432E0E586D71D91C2E6C1D6B893D.cache.js
+2A35107C130FB8FDACA8ADDCA79A3B9E.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-1966F097252F17DD35B781603F51B842.cache.js
-compat.mode CSS1Compat
+41FFE84F758A1917DBE29CE312601CA6.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent gecko1_8
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-3B36E593104AFA8FB75C50DA4071BB40.cache.js
+4580A55DC71BB61B95DC7E1876C64C14.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-732E0C4AC36D2B38343511873539F9AB.cache.js
+48FB3B818050E28C167258A100424C77.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie8
+user.agent safari
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-788ED5FD66F8185EA6F5397491D6C091.cache.js
+50F15A7BE6E2994F2B0905FC9E0685D9.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent gecko1_8
+user.agent ie6
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-AA27B90C693186E50C9738702593D730.cache.js
-compat.mode BackCompat
+5D2521FE976CBE41E01170E8EAF3FA45.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent opera
+user.agent ie9
 
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard false
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 false
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios false
-msie_clipboard true
-user.agent ie6
-
-B5DBCECC73C2C9FE0B74FC765E0D4029.cache.js
-compat.mode CSS1Compat
-drag_and_drop_support_html5 true
-is_android_or_ios true
-msie_clipboard true
-user.agent ie6
-
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
-compat.mode BackCompat
-drag_and_drop_support_html5 false
-is_android_or_ios false
-msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BAC0AB1846491B49C3A67FD3339B527C.cache.js
+71FE7312C3776DFB5C32BC00CFA64ADC.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent ie9
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-BCF7CB17BE1F18116646FE15FA50DE08.cache.js
-compat.mode BackCompat
+A09D3451596AC86B4A65E62E6F67CD4D.cache.js
+compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent opera
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie9
 
-CC4BBE2887C75581A9502D6F28EABAB4.cache.js
-compat.mode CSS1Compat
+BED420F329544974D85FC2E428EA24DE.cache.js
+compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie9
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D5A576F5977256D5901670C173723882.cache.js
+C175EFC54A98E5CC56822D191F93A99D.cache.js
 compat.mode CSS1Compat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
-user.agent safari
+user.agent gecko1_8
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard false
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 false
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios false
 msie_clipboard true
 user.agent ie6
 
-D611463DD8FA2C3C5BC31CF8337D723E.cache.js
+DB0EEE42D959FA29B3AB95172C237CC7.cache.js
 compat.mode BackCompat
 drag_and_drop_support_html5 true
 is_android_or_ios true
 msie_clipboard true
 user.agent ie6
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard false
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 false
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios false
+msie_clipboard true
+user.agent ie8
+
+E9539913D79333AD135F1D817439B638.cache.js
+compat.mode CSS1Compat
+drag_and_drop_support_html5 true
+is_android_or_ios true
+msie_clipboard true
+user.agent ie8
 
 Devmode:devmode.js

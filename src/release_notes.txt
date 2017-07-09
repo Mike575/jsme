@@ -1,3 +1,8 @@
+JSME 2017-07-09
+	- Copy&paste windows: clicking outside the window closes it
+	- Popup windows have the maximum Z index
+	- Full screen functionality and icon
+
 JSME 2017-06-18
 	- improved visual feedback for group deletion
 	- improved visual feedback for atom moving (bond highlight not shown anymore)
