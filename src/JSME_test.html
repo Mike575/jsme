@@ -200,8 +200,6 @@
      </table>
 
    <p></p>
-   <div align="center">
-    <INPUT TYPE="button" VALUE="Clear Editor" align="center" onClick="document.JME.reset()"></div>
   
    <p></p>
  	     
@@ -216,6 +214,11 @@
    
     </table>
 
+   <div align="center">
+    <button TYPE="button" onClick="jsmeApplet.reset()">Clear Editor</button>
+  	<button type="button" onclick='JSApplet.JSME.clearFontCache()'>Clear the font cache</button>
+    <button type="button" onclick='jsmeApplet.repaint()'>Repaint the applet</button>
+  </div>
 
 
 

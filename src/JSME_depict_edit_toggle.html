@@ -9,9 +9,11 @@
     //this function will be called after the JavaScriptApplet code has been loaded.
     function jsmeOnLoad() {
         jsmeApplet = new JSApplet.JSME("jsme_container", editorWidth + "px", editorHeight + "px");
-        var jme = "14 16 C 13.25 -6.36 C 13.25 -4.96 C 12.04 -4.26 C 10.83 -4.96 C 10.83 -6.36 C 12.04 -7.06 N 14.46 -7.06 C 15.68 -6.36 C 15.68 -4.96 C 14.46 -4.26 C 16.89 -7.06 C 18.10 -6.36 C 18.10 -4.96 C 16.89 -4.26 1 2 1 2 3 2 3 4 1 4 5 2 5 6 1 6 1 2 7 8 2 8 9 1 9 10 2 2 10 1 1 7 1 11 12 2 12 13 1 13 14 2 9 14 1 8 11 1";
+        var jme = "9 9 C 18.46 -7.83 C 17.25 -7.13 C 16.04 -7.83 C 16.04 -9.23 C 17.25 -9.93 C 18.46 -9.23 C 17.25 -5.72 O- 18.46 -5.02 O 16.04 -5.02 1 2 1 2 3 2 3 4 1 4 5 2 5 6 1 6 1 2 2 7 1 7 8 1 7 9 2|1 0 Na+ 22.40 -7.87";
         jsmeApplet.readMolecule(jme);
         jsmeApplet.options("atommovebutton,paste,toggle,depict");
+        
+        //customization of each mode
         jsmeApplet.setAfterDepictEditToggleEventHandler(function(jsme){
             if(jsme.isDepictMode()) {
                depictMode(jsme, false);
@@ -28,23 +30,27 @@
         jsme.setSize(editorWidth, editorHeight);//restore original size
         document.getElementById("editButton").style.display = "block";
         document.getElementById("depictButton").style.display = "none";
-        if(change)
-            jsme.options("depict");
-    }
+        
+        //add mouse over text
+        jsme.getParentContainer().setAttribute("title", 'Click to edit structure');
+        
+     }
     
     function editMode(jsme, change) {
         // find the height of the intro
         var introElement = document.getElementById("intro");
         var height = introElement.offsetHeight;
+        
         //hide the intro
         introElement.style.display = 'none';
         jsme.setSize(editorWidth, editorHeight + height);
-        if(change)
-            jsme.options("nodepict");
-        
+       
         //increase height of editor to take the space used by the intro text
         document.getElementById("editButton").style.display = "none";
         document.getElementById("depictButton").style.display = "block";
+        
+        //remove mouse over text
+        jsme.getParentContainer().setAttribute("title", null);
  
     }
 

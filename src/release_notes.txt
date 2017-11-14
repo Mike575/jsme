@@ -1,3 +1,17 @@
+JSME 201-11-14
+	- improved font cache - invalid value are not stored in the cache anymore, fix a display bug when the applet is hidden in a iframe
+	- new API method: clearFontCache
+	- API method repaint() always repaint the whole applet, even the parts that has not been changed
+
+JSME 2017-08-23
+	- changed showInfo() method - the custom message is not erased by a menu click
+	- improved full screen function
+	- direction of mouse wheel zoom reversed
+	
+JSME 2017-08-08
+	- SMILES generation stereo bug fix
+	- Chemical format detector accepts invalid "M END" with only one space
+
 JSME 2017-07-09
 	- Copy&paste windows: clicking outside the window closes it
 	- Popup windows have the maximum Z index
@@ -30,7 +44,7 @@ JSME-2017-04-01
 	- First support for coordination bonds
 
 JSME-2017-03-21
-	- New system clipboard handling
+	- new system clipboard handling
 	- support for wiggle and crossed stereo bonds
 
 JSME-2017-02-26
