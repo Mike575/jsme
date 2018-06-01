@@ -1,3 +1,8 @@
+JSME 2018-06-01
+        - improved atom background highlight with mutliple color mixing (see JSME_atom_highlight_demo.html)
+        - JSMEevent includes atoms of selected bonds and atom and bond indices of the molecular fragments
+        - additonnal HTML example page that shows how to use the built in Inchi computation (see JSME_inchi_direct.html)
+        
 JSME 2017-11-15
 	- default string width and font height are provided when the font size computation fails
 
