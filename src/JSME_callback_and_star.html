@@ -16,7 +16,10 @@ em {background-color:rgb(102,255,255);}
     function jsmeOnLoad() {
     
         jsmeApplet = new JSApplet.JSME("jsme_container", "380px", "340px", {
-           "options" : "oldlook,star"
+           "options" : "oldlook,star",
+           "atombgsize" : "0.5",
+           "bondbgsize" : "0.2", 
+           "guicolor" : "#DDEEEE"
         });
         
         jsmeApplet.setAfterStructureModifiedCallback(showEvent);

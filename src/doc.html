@@ -235,7 +235,7 @@ Here is a new example with a button that displays the SMILES of the molecule dra
 The HTML code above can be tested <a href="JSME_minimal2.html">here</a>.
 
 <br><br>
-The function used to created a new JSME instance can accept a third argument. The purpose of this optional argument is to set options to customize the look and behavior of JSME:
+<p id="3RDARG">The function used to created a new JSME instance can accept a third argument. The purpose of this optional argument is to provide customization of JSME:<p>
 
 <div class="example_code_jsme">
 &lt;html&gt;<br>
@@ -273,7 +273,31 @@ The HTML code above can be tested <a href="JSME_minimal3.html">here</a>.<br>
 The API of JSME includes the API of the java applet JME plus new functions and methods. A summary of the API is presently available as a <a href="api_javadoc/index.html">JavaDoc file</a>.<br>
 <br>
 
-	<h2>JSME options</h2>
+	<h2>JSME parameters</h2>
+	
+	The JSME instance can be customized using a set of parameters. These parameters must be provided as a <a href="#3RDARG">third argument JavaScript object</a> or as a "param" construct. 
+<p>Several parameters are available to initialize JSME.</p> All the parameter values must be input as character string.
+<b>options</b> - list of comma separate keywords (See <a href="#OPTIONS">JSME option section</a>).<br>
+	
+<b>jme</b> - structure in JME format<br>
+<b>smiles</b> - structure in SMILES format<br>
+<b>mol</b> - structure in MOL format<br>
+<b>mol</b> - structure in MOL format<br>
+<b>depictcgi</b> - ??<br>
+<b>depictbg</b> - background color in depict mode in RGB hex format (e.g. #FFFFFF) <br>
+<b>guicolor</b> - background color of the GUI elements in RGB hex format (e.g. #FFFFFF) (see also method setUserInterfaceBackgroundColor() )
+<b>atomcolors</b> - <br>
+<b>atombg</b> - atom background colors <br>
+<b>atombgsize</b> - relative size of the atom background circle, default is "1.0"
+<b>bondbgsize</b> - relative size of the bond background rectangle, default is "1.0"
+
+<b>notify_structural_change_js_function</b> - deprecated <br>
+
+
+
+
+	
+	<h2 id="OPTIONS">JSME options</h2>
 
 <p>Several options are available to customize the look and behavior of JSME.</p>
 
@@ -298,7 +322,8 @@ The API of JSME includes the API of the java applet JME plus new functions and m
 
 <b>polarnitro, nopolarnitro</b> - prevent automatic conversion of nitro (and similar) groups into nonpolar form (default is nopolarnitro)<br>
 <b>number / autonumber</b> - possibility to number (mark) atoms<br>
-<b>star, nostar</b> - possibility to highlight an atom (default is nostar). All highlighted atoms will have an atom number equal to 1. The atom numbers are included in the exported SMILES and MOL.<br>
+<b>star, nostar</b> - possibility to highlight atoms (default is nostar). All highlighted atoms will have an atom map number equal to 1. The atom map numbers are included in the exported SMILES and MOL.<br>
+<b>star1, nostar1</b> - possibility to highlight one atom at a time (default is nostar1). The highlighted atom will have an atom map number equal to 1. The atom map number is included in the exported SMILES and MOL.<br>
 <b>depict, nodepict</b> - the applet will appear without editing buttons, this is used for structure display only (default nodepict)<br>
 <b>depictaction, nodepictaction</b> - allow structure editing in depict mode<br>
 <b>toggle, notoggle</b> - allow to switch automatically between editing and depict mode (default is notoggle)<br>
@@ -319,6 +344,7 @@ The API of JSME includes the API of the java applet JME plus new functions and m
 <b>useopenchemlib, nouseopenchemlib</b> - use the OpenChemLib library (https://github.com/Actelion/openchemlib) for SMILES conversion, 2D coordinates computation and SVG export<br>
 <b>exportSVG, noexportSVG</b> - enable / disable the menu item for SVG export (useopenchemlib must be set)) <br>
 <b>useOclidcode, nouseOclidcode</b> - enable / disable the menu item for OCL export (useopenchemlib must be set)) <br>
+<b>fgmenu, nofgmenu</b> - enable / disable the top menu item for functional groups<br>
 
 
 <b>zoom, nozoom</b> - turn on/off zooming of the molecular drawing area<br>

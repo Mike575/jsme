@@ -10,7 +10,7 @@
     <!--                                           -->
     <title>JSME test page</title>
 
-
+      <link href="style.min.css" rel="stylesheet" type="text/css">
    
      <script type="text/javascript" language="javascript" src="jsme/jsme.nocache.js"></script>
 
@@ -195,6 +195,14 @@
 			   <button type="button" onclick='jsmeApplet.setMenuScale(parseFloat(document.getElementById("nmareascale").value));'>set scale</button>
 			   <button type="button" onclick='document.getElementById("nmareascale").value=jsmeApplet.getMenuScale();'>get scale</button>
 			</td>
+	     </tr>
+	     <tr>
+	     <td>
+	     Set another background color for the GUI frame and the dialog boxes
+	     </td>
+	     <td>
+	     <button type="button" onclick='jsmeApplet.setUserInterfaceBackgroundColor(200,200,240);'>set predefined color</button>
+	     </td>
 	     </tr>
 	     
      </table>

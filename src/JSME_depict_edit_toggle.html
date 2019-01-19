@@ -16,12 +16,12 @@
         //customization of each mode
         jsmeApplet.setAfterDepictEditToggleEventHandler(function(jsme){
             if(jsme.isDepictMode()) {
-               depictMode(jsme, false);
+               //depictMode(jsme, false);
             } else {
-               editMode(jsme, false)
+              // editMode(jsme, false)
             }
         });
-        depictMode(jsmeApplet);
+        //depictMode(jsmeApplet);
     }
     function depictMode(jsme, change) {
         var introElement = document.getElementById("intro");

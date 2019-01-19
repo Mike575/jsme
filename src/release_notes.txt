@@ -1,10 +1,45 @@
+JSME-2019-01-19
+    - new initialization parameter: guicolor
+    - new method: setUserInterfaceBackgroundColor()
+
+JSME-2018-11-18
+    - new copy option: Copy as raw SVG
+
+JSME-2018-11-10
+    - new option: star1
+    - bond highlight is disabled if an atom only action is selected (e.g. set atomic charge)
+    - atom highlight is disabled if a bond only action is selected (e.g. set bond stereo)
+    
+
+JSME 2018-10-28
+    - improved documentation: new parameter section
+    - two new parameter: atombgsize and bondbgsize
+
+JSME 2018-10-21
+    - bug fix: when importing or pasting a structure with atom map number, the numbers are not displayed if the editor is in star mode, instead the atom with an atom map are displayed with a blue background color
+    - bug fix: when two atoms are very close, it was impossible to select the bond between the two atoms
+
+
+JSME 2018-10-15
+    - delete method to disable the functional group menu enableFGMenu()
+    - new option: fgmenu / nofgmenu
+    - bug fix: atom marking using the star option
+    - pasting a SMILES with one or more leading or trailing blank will be accepted and corrected
+
+JSME 2018-10-07
+    - new method to disable the functional group menu enableFGMenu()
+    - new method: setBondBackgroundColors()
+    - additional HTML example page that shows an alternative way to use templates (see JSME_template_aminoacids.html)
+    - change default background color for GUI elements
+        
+        
 JSME 2018-06-03
-        - atom and bond highlight mouse leave events are fired before  mouse enter events
+    - atom and bond highlight mouse leave events are fired before  mouse enter events
 
 JSME 2018-06-01
-        - improved atom background highlight with mutliple color mixing (see JSME_atom_highlight_demo.html)
-        - JSMEevent includes atoms of selected bonds and atom and bond indices of the molecular fragments
-        - additonnal HTML example page that shows how to use the built in Inchi computation (see JSME_inchi_direct.html)
+    - improved atom background highlight with mutliple color mixing (see JSME_atom_highlight_demo.html)
+    - JSMEevent includes atoms of selected bonds and atom and bond indices of the molecular fragments
+    - additional HTML example page that shows how to use the built in InChi computation (see JSME_inchi_direct.html)
         
 JSME 2017-11-15
 	- default string width and font height are provided when the font size computation fails
