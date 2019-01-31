@@ -282,14 +282,16 @@ The API of JSME includes the API of the java applet JME plus new functions and m
 <b>jme</b> - structure in JME format<br>
 <b>smiles</b> - structure in SMILES format<br>
 <b>mol</b> - structure in MOL format<br>
-<b>mol</b> - structure in MOL format<br>
 <b>depictcgi</b> - ??<br>
 <b>depictbg</b> - background color in depict mode in RGB hex format (e.g. #FFFFFF) <br>
-<b>guicolor</b> - background color of the GUI elements in RGB hex format (e.g. #FFFFFF) (see also method setUserInterfaceBackgroundColor() )
+<b>guicolor</b> - background color of the GUI elements in RGB hex format (e.g. #FFFFFF) (see also method setUserInterfaceBackgroundColor() )<br>
 <b>atomcolors</b> - <br>
-<b>atombg</b> - atom background colors <br>
-<b>atombgsize</b> - relative size of the atom background circle, default is "1.0"
-<b>bondbgsize</b> - relative size of the bond background rectangle, default is "1.0"
+<b>atombg</b> - atom background colors - see the demo JSME_atom_highlight_demo.html for an example<br>
+<b>depictbg</b> - background color for the depict mode in hex format - no test yet<br>
+<b>atombgsize</b> - relative size of the atom background circle, default is "1.0" <br>
+<b>bondbgsize</b> - relative size of the bond background rectangle, default is "1.0" <br>
+
+
 
 <b>notify_structural_change_js_function</b> - deprecated <br>
 
@@ -355,9 +357,6 @@ The API of JSME includes the API of the java applet JME plus new functions and m
 
 <b>contextmenu, nocontextmenu</b> - enable / disable the context menu<br>
 
-<b>atombg</b> - atom background color - see the demo JSME_atom_highlight_demo.html for an example<br>
-<b>depictbg</b> - background color for the depict mode in hex format - no test yet<br>
-<br>
 <br>
 The option of a JMSE instance can be setup during its creation or afterwards using the options() method. See the <a href="#JSME_API">JSME API section</a>.
 
